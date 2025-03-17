@@ -1,6 +1,6 @@
 # Model Context Protocol (MCP)
 
-![diagram](https://file%2B.vscode-resource.vscode-cdn.net/Users/hrishi0102/Desktop/Screenshot%202025-03-17%20at%209.37.31%E2%80%AFPM.png?version%3D1742227729953)
+![diagram](mcp_diagram.png)
 ## What is MCP?
 
 The Model Context Protocol (MCP) is a standardized way to provide context and instructions to AI models, particularly large language models (LLMs). It's designed to make interactions with AI models more structured, reliable, and predictable.
