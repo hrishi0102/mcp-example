@@ -1,0 +1,22 @@
+{
+  "name": "mcp",
+  "version": "1.0.0",
+  "description": "![diagram](mcp_diagram.png) ## What is MCP?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hrishi0102/mcp-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hrishi0102/mcp-example/issues"
+  },
+  "homepage": "https://github.com/hrishi0102/mcp-example#readme",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.7.0"
+  }
+}
