@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "![diagram](mcp_diagram.png) ## What is MCP?",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,6 +18,7 @@
   },
   "homepage": "https://github.com/hrishi0102/mcp-example#readme",
   "dependencies": {
-    "@modelcontextprotocol/sdk": "^1.7.0"
+    "@modelcontextprotocol/sdk": "^1.7.0",
+    "zod": "^3.24.2"
   }
 }
